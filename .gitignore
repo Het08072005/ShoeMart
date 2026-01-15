@@ -7,7 +7,9 @@ Thumbs.db
 *.tmp
 *.swp
 *.swo
-
+.env
+.env.*
+!.env.example
 
 #################################
 # Python / FastAPI
