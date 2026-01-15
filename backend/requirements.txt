@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+rapidfuzz
+
+livekit-api
+
+livekit-agents
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+requests
+pydantic-ai-slim[google,mcp]
+livekit-agents[bey]~=1.2
+httpx
+# flask[async]
+# flask
+# flask_cors
